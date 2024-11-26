@@ -48,7 +48,7 @@ Este projeto, embora simples, representa um passo inicial no desenvolvimento de 
 
 ## Informações de Contato
 
-- LinkedIn: [uxwriter95](https://www.linkedin.com/uxwriter95)
+- LinkedIn: [Raull7790](https://www.linkedin.com/uxwriter95)
 - Discord: RaulzadaX
 - E-mail: vieiraraul92@gmail.com
   
