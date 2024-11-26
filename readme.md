@@ -48,6 +48,6 @@ Este projeto, embora simples, representa um passo inicial no desenvolvimento de 
 
 ## Informações de Contato
 
-- LinkedIn: [uxwriter95](https://www.linkedin.com/uxwriter95)
-- Discord: dr.midn1ght
-- E-mail: ana.drmidnight@gmail.com
+- LinkedIn: Raull7790
+
+- E-mail: vieiraraul92@gmail.com
